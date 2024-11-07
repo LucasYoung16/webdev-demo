@@ -1,0 +1,21 @@
+body{
+    background-color:darkseagreen;
+}
+
+#container{
+    text-align:center;
+}
+
+.button{
+    border-radius: 30px;
+    background-color: blanchedalmond;
+    font-size: medium;
+}
+
+.button:hover{
+    background-color:burlywood;
+}
+
+ul{
+    list-style-type: none;
+}
